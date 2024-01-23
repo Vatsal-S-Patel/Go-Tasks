@@ -128,7 +128,7 @@ document.addEventListener('keydown', event => {
         allClear();
     } 
     // This statement evaluate only if pressed key is number or operator, prevents the alphabets to input
-    else if (parseInt(event.key) || checkIsOperator(event.key)){
+    else if (parseInt(event.key) || event.key === '0' || checkIsOperator(event.key)){
         takeInput(event.key);
     } 
         
