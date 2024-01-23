@@ -6,7 +6,7 @@
 - JavaScript
 
 ### Demo Link
-- ['Calculator Exercise Live Demo'](https://vatsal-s-patel.github.io/Task-2-Calculator-Exercise/)
+- [Calculator Exercise Live Demo](https://vatsal-s-patel.github.io/Task-2-Calculator-Exercise/)
 
 
 ### Preview
